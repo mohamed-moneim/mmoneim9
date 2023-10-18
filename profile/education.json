@@ -6,7 +6,7 @@
             "cardSubtitle":"Cairo University, Cairo",
             "cardDetailedText": "GPA - 2.5",
             "icon" : {
-                "src": "/images/education/cairou.png"
+                "src": "https://mohamed-moneim.github.io/mmoneim9/images/education/cairou.png"
             }
         },
         {
@@ -15,7 +15,7 @@
             "cardSubtitle":"High Institute of Computer and Information Systems, Alexandria",
             "cardDetailedText": "GPA - 2.7",
             "icon" : {
-                "src": "images/education/abuqir.jpg"
+                "src":"https://mohamed-moneim.github.io/mmoneim9/images/education/abuqir.jpg"
             }
         },
 
