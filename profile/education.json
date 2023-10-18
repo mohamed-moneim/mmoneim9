@@ -1,0 +1,30 @@
+{
+    "education":[
+        {
+            "title": "Sep 2020 - May 2023",
+            "cardTitle": "POST Graduate Diploma,  Computer  Science",
+            "cardSubtitle":"Cairo University, Cairo",
+            "cardDetailedText": "GPA - 2.5",
+            "icon" : {
+                "src": "images/education/cairou.png"
+            }
+        },
+        {
+            "title": "Sep 2012 - May 2016",
+            "cardTitle": "Bachelors Degree,  Management Information Systems",
+            "cardSubtitle":"High Institute of Computer and Information Systems, Alexandria",
+            "cardDetailedText": "GPA - 2.7",
+            "icon" : {
+                "src": "images/education/abuqir.jpg"
+            }
+        },
+
+        {
+            "title": "May 2006",
+            "cardTitle": "High School",
+            "cardSubtitle":"Tarek Ibn Ziad  School, Alexandria",
+            "cardDetailedText": "Marks - 75%"
+            
+        }
+    ]
+}
