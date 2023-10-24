@@ -1,0 +1,2 @@
+(this["webpackJsonpMohamed-Abdelmoneim"]=this["webpackJsonpMohamed-Abdelmoneim"]||[]).push([[8],{90:function(e,t,a){"use strict";a.r(t);a(0),a(92);var i=a(1);t.default=function(e){var t=e.title;return Object(i.jsx)("div",{className:"header",children:t})}}}]);
+//# sourceMappingURL=8.bdf95be0.chunk.js.map
